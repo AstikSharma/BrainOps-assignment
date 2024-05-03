@@ -1,7 +1,5 @@
 # BrainOps Assignment
 
-![Project Image](https://s3.amazonaws.com/contents.newzenler.com/6034/courses/39920/data/thumb/s-3.jpg)
-
 ## About
 
 The BrainOps assignment project is a full-stack web application built with React, Node.js, Express, and MongoDB. It provides functionality for user registration, login, and viewing blog posts. This project aims to demonstrate fundamental concepts of web development and showcases how to integrate React with a Node.js backend.
